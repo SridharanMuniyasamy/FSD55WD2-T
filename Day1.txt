@@ -1,0 +1,5 @@
+Question 1: What is JS?
+Answer: Js is programming language.
+
+  Question 2: What is an array?
+  
